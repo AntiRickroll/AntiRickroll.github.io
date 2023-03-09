@@ -1,2 +1,4 @@
-# AntiRickroll.github.io
-The website that detects rickroll links, alongside with a list of rickroll URLs
+# AntiRickroll
+The app that lets you know if a link is a rickroll
+With a list of rickrolls URLs discovered by us.
+Feel free to contribute to the list or fork the project.
